@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "demo-tools": {
+      "command": "C:/Users/Likitha V-INT-357/Desktop/mcp-server/venv/Scripts/python.exe",
+      "args": ["server.py"]
+    }
+  }
+}
